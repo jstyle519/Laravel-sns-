@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand navbar-dark blue-gradient">
 
-  <a class="navbar-brand" href="/"><i class="far fa-sticky-note mr-1"></i>memo</a>
+  <a class="navbar-brand" href="/"><i class="fas fa-paw mr-2"></i>Pet Gram</a>
 
   <ul class="navbar-nav ml-auto">
 
@@ -27,7 +27,7 @@
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
          aria-haspopup="true" aria-expanded="false">
-        <i class="fas fa-user-circle"></i>
+        <i class="fas fa-dog"></i>
       </a>
       <div class="dropdown-menu dropdown-menu-right dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
         <button class="dropdown-item" type="button"
