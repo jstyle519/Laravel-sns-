@@ -12,6 +12,7 @@
 
 
 ## 技術一覧
-- 環境構築 -Docker
-- フレームワーク/ライブラリ -Laravel / Laradock / BootStrap / Vue.js 
-- DB -PostgresSQL
+- 環境構築 -Cloud9
+- フレームワーク/ライブラリ -Laravel / Laradock / BootStrap / SASS 
+- DB -MySQL
+-
