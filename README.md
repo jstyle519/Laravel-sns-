@@ -15,4 +15,4 @@
 - 環境構築 -Cloud9
 - フレームワーク/ライブラリ -Laravel / Laradock / BootStrap / SASS 
 - DB -MySQL
--
+- デプロイ -Heroku
